@@ -1,2 +1,9 @@
 # php_dashboard
 A small ticketing system made from PHP and using MySQL as its database.
+
+1. Import my_dashboard.sql
+2. Login using the following, username = admin@localhost and password = P@ssw0rd12345
+
+Notes:
+The Home dashboard functionality has been disabled.
+The sorting of months has been manually created, for demonstration purposes only.
