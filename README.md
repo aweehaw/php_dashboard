@@ -8,3 +8,9 @@ Notes:
 The Home dashboard functionality has been disabled.
 
 The sorting of months has been manually created, for demonstration purposes only.
+
+The purpose of this demonstration is for employment, no further developments will be made as of the moment.
+
+Thank you,
+
+Miguel Batiquin
