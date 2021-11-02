@@ -2,7 +2,7 @@
 A small ticketing system made from PHP and using MySQL as its database.
 
 1. Import my_dashboard.sql
-
+![alt text](https://i.imgur.com/HIPsaYg.png)
 
 2. Login using the following, username = 'admin@localhost' and password = 'P@ssw0rd12345'.
 ![alt text](https://i.imgur.com/LaKgepo.png)
