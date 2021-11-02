@@ -1,0 +1,63 @@
+#custom001 {
+    margin: 0 0 0 5px;
+    font: 0.9em tahoma;
+}
+
+    #custom001 input {
+        margin: 0 5px 10px 0;
+        padding: 5px 10px;
+    }
+
+    #custom001 select {
+        margin: 0 5px 10px 0;
+        padding: 5px 5px;   
+    }
+
+    #custom001 button {
+        background-color: #4CAF50;
+        border: none;
+        color: #ffffff;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 13px;
+    }
+
+    #custom001 table, th, td {
+        border: 1px solid black;
+        text-align: center;
+        font-weight: inherit;
+        font: 0.9em tahoma;
+    }
+
+    #custom001 th {
+        padding: 7px 15px;
+        background-color: #33ccff;
+    }
+
+    #custom001 td {
+        padding: 3px 10px;
+        line-height: 2em;
+    }
+
+    a.modify, a.modify:visited {
+        text-decoration: none;
+        color: #cccc33;
+    }
+
+    a.modify:hover {
+        color: gray;
+    }
+
+    #custom001 h5 {
+        font-size: 1.2em;
+        line-height: 0.75;
+    }
+
+    #custom001 p {
+        margin: 0 0 -20px 0;
+        font-size: 0.9em;
+    }
+
+    #custom001 .td_gray {
+        background-color: #e9e9e9;
+    }
