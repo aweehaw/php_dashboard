@@ -18,6 +18,4 @@ Notes:
 
 The purpose of this demonstration is for employment, no further developments will be made as of the moment.
 
-Thank you,
-
-Miguel Batiquin
+Thank you
