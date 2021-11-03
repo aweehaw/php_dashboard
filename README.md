@@ -10,12 +10,3 @@ A small ticketing system made from PHP, HTML, CSS and JS together with MySQL as 
 3. Session created successfully.
 
 ![alt text](https://i.imgur.com/kGY9l50.png)
-
-Notes:
-* The Home dashboard functionality has been disabled.
-* The sorting of months has been manually created, for demonstration purposes only.
-* Registration and Forgot Password is disabled, for aesthetics only.
-
-The purpose of this demonstration is for employment, no further developments will be made as of the moment.
-
-Thank you
