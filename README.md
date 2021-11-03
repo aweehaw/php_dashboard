@@ -8,6 +8,7 @@ A small ticketing system made from PHP, HTML, CSS and JS together with MySQL as 
 ![alt text](https://i.imgur.com/LaKgepo.png)
 
 3. Session created successfully.
+
 ![alt text](https://i.imgur.com/kGY9l50.png)
 
 Notes:
