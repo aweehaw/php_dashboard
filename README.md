@@ -1,5 +1,5 @@
 # php_dashboard
-A small ticketing system made from PHP, HTML, CSS and JS together with MySQL as its database.
+A small ticketing system made with PHP, HTML, CSS and JS using MySQL as its database.
 
 1. Import my_dashboard.sql
 ![alt text](https://i.imgur.com/HIPsaYg.png)
